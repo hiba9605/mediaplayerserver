@@ -1,0 +1,97 @@
+{
+  "uploadVideos": [
+    {
+      "id": "7d61",
+      "caption": "leo",
+      "imgUrl": "https://moviegalleri.net/wp-content/uploads/2023/10/Vijay-LEO-Movie-Trailer-HD.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "52f2",
+      "caption": "Fidaa",
+      "imgUrl": "https://w0.peakpx.com/wallpaper/569/266/HD-wallpaper-movie-fidaa.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/AVtvjfoXNXc"
+    },
+    {
+      "id": "82c9",
+      "caption": "Nenu sailaja",
+      "imgUrl": "https://www.filmibeat.com/imgh/560x292/2016/07/nenu-sailaja_146821439620.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/lLRiomGXkag"
+    },
+    {
+      "id": "e591",
+      "caption": "vazha",
+      "imgUrl": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/06/01/271188-vaazha.jpg?itok=mjB3Ilr7",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "e244",
+      "categoryName": "tutorials",
+      "allVideos": []
+    },
+    {
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "1954",
+          "caption": "amaran",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTI4NDdlOWMtZTcxYS00MGMxLTk1MDctODUyOTFjZTQ3YTIxXkEyXkFqcGdeQXVyMTQ4MTg3Njcx._V1_FMjpg_UX1000_.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/hylIXfZeB4c"
+        }
+      ],
+      "id": "Vm2oOzj"
+    }
+  ],
+  "history": [
+    {
+      "id": "164a",
+      "caption": "amaran",
+      "youtubeLink": "https://www.youtube.com/embed/hylIXfZeB4c",
+      "timeStamp": "11/5/2024, 9:32:06 AM GMT+5:30"
+    },
+    {
+      "id": "2565",
+      "caption": "leo",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/5/2024, 10:21:26 AM GMT+5:30"
+    },
+    {
+      "id": "014f",
+      "caption": "Brother",
+      "youtubeLink": "https://www.youtube.com/embed/rmonLZ1kElw",
+      "timeStamp": "11/6/2024, 10:33:11 AM GMT+5:30"
+    },
+    {
+      "caption": "Nenu sailaja",
+      "youtubeLink": "https://www.youtube.com/embed/lLRiomGXkag",
+      "timeStamp": "11/7/2024, 9:19:26 AM GMT+5:30",
+      "id": "z_tx963"
+    },
+    {
+      "caption": "Fidaa",
+      "youtubeLink": "https://www.youtube.com/embed/AVtvjfoXNXc",
+      "timeStamp": "11/7/2024, 9:19:30 AM GMT+5:30",
+      "id": "b30S5No"
+    },
+    {
+      "caption": "vazha",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "11/7/2024, 9:19:35 AM GMT+5:30",
+      "id": "y_I1srU"
+    },
+    {
+      "caption": "leo",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/7/2024, 9:19:47 AM GMT+5:30",
+      "id": "n4E6JCU"
+    },
+    {
+      "caption": "Fidaa",
+      "youtubeLink": "https://www.youtube.com/embed/AVtvjfoXNXc",
+      "timeStamp": "11/7/2024, 9:20:06 AM GMT+5:30",
+      "id": "fwVW-Yg"
+    }
+  ]
+}
